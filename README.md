@@ -1,20 +1,12 @@
 # Wishlist App
 
-A simple **Flutter Wishlist App** with e-commerce features, including user login, item listing using the **Faker Products API**, product descriptions, and an **Add to Cart** option.
+A simple **Flutter Wishlist App** with e-commerce features, including user login, item listing using the **JSON Data**, product descriptions, and an **Add to Cart** option.
 
 ## 📱 Features
 - **User Authentication**: Simple login form with validations.
-- **Product Listing**: Displays products fetched from Faker Products API.
+- **Product Listing**: Displays products from json file.
 - **Product Details**: View detailed descriptions of each item.
-- **Wishlist Functionality**: Add/remove items from the wishlist.
-- **Add to Cart**: Select products and add them to the cart.
-- **State Management**: Manages login state, wishlist, and cart functionality.
-- **Responsive UI**: Works across different screen sizes.
 
-## 🛠️ Tech Stack
-- **Flutter** (Dart)
-- **Provider / Riverpod** (State Management)
-- **Faker API** (Mock Products Data)
 
 ## 🚀 Getting Started
 
